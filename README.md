@@ -8,7 +8,7 @@
 <br>
 <hr>
 
-<h2 align="left" color="white"> USE TO CODE </h2>
+<h2 align="left" color="white"> LANGUAGE & TOOLS </h2>
 <br>
 <br>
 <div align="center">
