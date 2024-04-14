@@ -6,7 +6,6 @@
 
 <h5 align="center" color=" White"> I recently came across web development and fell in love with it. I love building things and the possibility of creating things with a click in the computer fascinated me. I am planning to explore this and to learn many more </h5>
 <br>
-<hr>
 
 <h2 align="left" color="white"> ⚒️ LANGUAGE & TOOLS </h2>
 
