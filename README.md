@@ -32,7 +32,7 @@
     <br>
   </div>
   <div style="float: right; width: 50%;">
-    <img width="100%" height="100%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+    <img width="50%" height="50%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
   </div>
 
 
