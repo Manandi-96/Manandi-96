@@ -30,7 +30,7 @@
   </div>
   <br>
   <div align="right">
-    <img align ="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+    <img align ="right" width=40 height=40 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
   </div>
   
 </div>
