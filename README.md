@@ -19,4 +19,18 @@
 <img align="left" src="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465">
 <img align="left" src="https://camo.githubusercontent.com/3356d10dd79f916a84ae5dba4c297fcc1a4b01bea6a2a46c7e7a7797c6a22d0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642">
 
+<br>
+
+<div>
+  <div align="left">
+    <h4>Enjoy programming and love to learn more </h4>
+    <h4> More about me..... will let you know as I go</h4>
+  </div>
+  
+  <div align="right">
+    <img align ="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+  </div>
+  
+</div>
+
 
