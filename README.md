@@ -22,15 +22,12 @@
 <br>
 <hr>
 
-<div>
-  <br>
-  <div align="left">
-    <h4>Enjoy programming and love to learn more </h4>
-    <h4> More about me..... will let you know as I go</h4>
-  </div>
-  <br>
-  <div align="right">
-    <img align ="right" width=50% height=50% src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+ <div style="float: right; width: 50%;">
+    <br>
+    <h4>Enjoy programming and love to learn more</h4>
+    <h4>More about me..... will let you know as I go</h4>
+    <br>
+    <img width="100%" height="100%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
   </div>
   
 </div>
