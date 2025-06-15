@@ -13,7 +13,7 @@
  <br>
 
 <img align="right" 
-src="https://skillicons.dev/icons?i=js,html,css,cpp,react">
+src="https://skillicons.dev/icons?i=js,html,css,react">
 
 
  </div>
