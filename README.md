@@ -4,7 +4,9 @@
 
 <h3 align="center" color=" White"> Software Engineer </h3>
 
-<h5 align="center" color=" White"> I recently came across web development and fell in love with it. I love building things and the possibility of creating things with a click in the computer fascinated me. I am planning to explore this and to learn many more </h5>
+<h5 align="center" color=" White"> 
+Hello, I am a Civil Engineer that came across web development and fell in love with it! I always loved building things and the possibility of creating things with a click in the computer fascinates me to date. I am currently exploring the craft of web development and is building a fresh career in the software engineering space.
+</h5>
 <br>
 
 <h2 align="left" color="white"> ⚒️ LANGUAGE & TOOLS </h2>
